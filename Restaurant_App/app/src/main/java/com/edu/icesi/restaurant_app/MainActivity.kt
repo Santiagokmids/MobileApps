@@ -22,7 +22,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
 
-
         //Configuración de la recycler
         adapter = ItemAdapter()
         binding.itemList.layoutManager = LinearLayoutManager(this)//para que se muestre lineal

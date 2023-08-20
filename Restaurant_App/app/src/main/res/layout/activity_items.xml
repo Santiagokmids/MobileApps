@@ -71,4 +71,35 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/checkA"
+        android:layout_width="379dp"
+        android:layout_height="49dp"
+        android:background="#468A8A8A"
+        android:visibility="gone"
+        app:layout_constraintEnd_toEndOf="@+id/aBtn"
+        app:layout_constraintStart_toStartOf="@+id/aBtn"
+        app:layout_constraintTop_toTopOf="@+id/aBtn" />
+
+    <Button
+        android:id="@+id/checkB"
+        android:layout_width="379dp"
+        android:layout_height="49dp"
+        android:background="#468A8A8A"
+        android:visibility="gone"
+        app:layout_constraintEnd_toEndOf="@+id/bBtn"
+        app:layout_constraintStart_toStartOf="@+id/bBtn"
+        app:layout_constraintTop_toTopOf="@+id/bBtn" />
+
+    <Button
+        android:id="@+id/checkC"
+        android:layout_width="379dp"
+        android:layout_height="49dp"
+        android:background="#468A8A8A"
+        android:visibility="gone"
+        app:layout_constraintEnd_toEndOf="@+id/cBtn"
+        app:layout_constraintStart_toStartOf="@+id/cBtn"
+        app:layout_constraintTop_toTopOf="@+id/cBtn" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
