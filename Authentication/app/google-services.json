@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676442007821",
+    "project_id": "authentication-3d2f6",
+    "storage_bucket": "authentication-3d2f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676442007821:android:0b38fc0d0f559201a66844",
+        "android_client_info": {
+          "package_name": "icesi.edu.co.authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGLfwGascKk2aG1Rj6sqh4Vuv7tp94Ejc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
