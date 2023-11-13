@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "204806768761",
+    "firebase_url": "https://appsmobiles-c230f-default-rtdb.firebaseio.com",
+    "project_id": "appsmobiles-c230f",
+    "storage_bucket": "appsmobiles-c230f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204806768761:android:044810bbf5e3f19722eca8",
+        "android_client_info": {
+          "package_name": "icesi.edu.co.firebaseapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNh0TvoNMxZhW3_2sfT5j357s5zctvNJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204806768761:android:d0d6b3e75f4dd20522eca8",
+        "android_client_info": {
+          "package_name": "icesi.edu.co.firestoreejemplokotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNh0TvoNMxZhW3_2sfT5j357s5zctvNJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204806768761:android:52867d82729f997c22eca8",
+        "android_client_info": {
+          "package_name": "icesi.edu.co.galleryaoo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNh0TvoNMxZhW3_2sfT5j357s5zctvNJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

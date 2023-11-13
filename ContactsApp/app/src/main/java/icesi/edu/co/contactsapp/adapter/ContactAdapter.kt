@@ -3,7 +3,7 @@ package icesi.edu.co.contactsapp.adapter
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import androidx.recyclerview.widget.RecyclerView.Adapter
+import android.widget.Adapter
 import icesi.edu.co.contactsapp.R
 import icesi.edu.co.contactsapp.model.Contact
 import icesi.edu.co.contactsapp.viewHolder.ContactViewHolder

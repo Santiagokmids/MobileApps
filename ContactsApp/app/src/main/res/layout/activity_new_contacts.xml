@@ -53,4 +53,12 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <RelativeLayout
+        android:layout_width="409dp"
+        android:layout_height="270dp"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="507dp">
+
+    </RelativeLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
